@@ -25,20 +25,22 @@ Hope you Use this BOT for Good Purposes 😇
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """Hello, I am Rename To TG bot..
-    
+
 1. Send me any Telegram File.
-2. Use /savethumbnail to set a Custom Thumbnail. 
-3.Use /clearthumbnail to clear a Saved Thumbnail. 
-4. Reply to that message to /rename new name.extension.
+2. Send me a Photo to set as Custom Thumbnail.
+3.Use /clearthumbnail to clear a Saved Thumbnail.
+4. Reply to that message with /rename new name.extension to rename a File
 
 
-   
+
 <b>✌ My Creator:</b> 👉 <a href="https://t.me/WhySooSerious">Wrench</a>
 
 --------
 
 For Movies: @A2Zlinkz
-© @Dev_Owo @WhySooSerious 
+
+<b>Maintained by </b> : <a href="https://t.me/Dev_OwO">Sophisticated Developers</a>©
+
 This is a Fork of @AnydlBOT"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
